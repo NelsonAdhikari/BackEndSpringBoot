@@ -1,2 +1,4 @@
-package com.lcwd.electronic.store.controllers;public class CategoryControllerTest {
+package com.lcwd.electronic.store.controllers;
+
+public class CategoryControllerTest {
 }
